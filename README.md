@@ -4,3 +4,6 @@
 
 
 ### Knowledge-based Recommender System
+
+  1.Learning Intents behind Interactions with Knowledge Graph for Recommendation. `WWW2021` [[PDF]](https://arxiv.org/abs/2102.07057) [[Code]](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network?utm_source=catalyzex.com)
+  2.
